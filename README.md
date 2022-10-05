@@ -4,4 +4,4 @@ This Github serves as a resource for those who wish to use the IPV classifier to
 
 A demonstration of how to prepare the NVDRS RAD file and apply the IPV classifier is available in the Rmarkdown HTML file (Dissertation_Markdown_020122.HTML). The concept term lists  (concept_020122.Rdata) are used to this end, and the model itself (IPV_Related_Suicide_rfmodel_2022_01_28.Rdata) is also included here.
 
-To best view the Demo, click the green "Code" button and then select "Download Zip." 
+To best view the code demo, click the green "Code" button and then select "Download Zip." 
